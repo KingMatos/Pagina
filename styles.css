@@ -24,6 +24,14 @@
     align-items: center;
     padding-left: 20px;
   }
+
+  #contenido {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
   
   #placeholder {
     width: 100px;
